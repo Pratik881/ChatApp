@@ -9,6 +9,18 @@ A real-time chat application built with React.js and Express.js, enabling users 
 - Auto-scrolling chat interface
 - User join/leave notifications
 
+## Getting Started
+
+### Clone the Repository
+
+```bash
+# Clone the repository
+git clone https://github.com/Pratik881/ChatApp.git
+
+# Navigate to the project directory
+cd ChatApp
+```
+
 ## Tech Stack
 
 ### Frontend
@@ -71,7 +83,7 @@ The server will start using nodemon for development purposes.
 ## Project Structure
 
 ```
-├── client/                 # React frontend
+├── clients/                 # React frontend
 │   ├── public/
 │   ├── src/
 │   └── package.json
@@ -91,4 +103,6 @@ The server will start using nodemon for development purposes.
 
 ### Server
 - `npm start`: Starts the server using nodemon
+
+
 
